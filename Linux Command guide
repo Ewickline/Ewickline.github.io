@@ -1,0 +1,30 @@
+cd-Change Directory
+ls- List
+ls -l -List long
+ls-s -List all including hidden shown by a .
+help or --h - Shows options for command
+mkdir- Make directory
+rmdir- Remove directory
+rm- removes an empty file 
+echo- repeats entered text
+touch- makes a new empty file or changes edited time
+grep- serches for entered text
+| - pipe character allows the output of one command to become the input of another
+sudo- gives the user admin permissions for one command
+ping- sends data to test connectivity
+pwd- shows present working directory
+passwd- used to set or change a users password
+cp- copy
+mv- move
+ifconfig- used for configuring network interfaces
+ps- shows all running processes
+su- creates a new shell layer to switch users
+chown- change a files user owner
+chmod- change read, write, execute permissions for user owner, group and other
+YUM- REHL package managment software
+vi- allows user to edit content of files
+cat- allows user to view contents of files or directories
+~ - A user's home direstory
+less- breaks a long output into a page format
+clear- clear the terminal
+whoami- shows the current user
